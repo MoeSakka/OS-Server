@@ -10,7 +10,7 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 7. WordPress 6.3.2
 # Progress & Update
 1. 17/10/23 Install Ubuntu Server di Hardisk Eksternal.
-2.17/10/23 Install SSH dan melakukan tahap Instalasi melalui Terminal.
+2. 17/10/23 Install SSH dan melakukan tahap Instalasi melalui Terminal.
 3. 17/10/23 Install Apache2.
 4. 17/10/23 Install PHP.
 5. 17/10/23 Install MariaDB.
@@ -18,7 +18,7 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 7. 17/10/23 Download WordPress.
 8. 17/10/23 Install Unzip.
 9. 17/10/23 pada saat unzip WordPress terdapat kendala pada Hardisk Eksternal sehingga mengakibatkan dampak pada tahap Instalasi.
-10.17/10/23 Restart Ubuntu Server di Oracle VM & File tidak dapat di baca.
+10. 17/10/23 Restart Ubuntu Server di Oracle VM & File tidak dapat di baca.
 11. 18/10/23 Reinstall Ubuntu Server di Partisi Windows-SSD (C:).
 12. 18/10/23 Install SSH.
 13. 19/10/23 Install Apache2.
