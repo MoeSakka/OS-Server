@@ -35,4 +35,4 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 24. 07/12/23 Membuat baru web server.
 25. 07/12/23 Menginstall ulang Ubuntu Server.
 26. 07/12/23 Menginstall SSH.
-27. 07/12/23 Menginstall Apache2
+27. 07/12/23 Menginstall Apache2.
