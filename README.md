@@ -32,3 +32,7 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 21. 19/10/23 Konfigurasi WordPress.
 22. 19/10/23 Restart Apache2.
 23. 19/10/23 Relog domain (192.168.56.106) dan tampilan domain menjadi Wordpress.
+24. 07/12/23 Membuat baru web server.
+25. 07/12/23 Menginstall ulang Ubuntu Server.
+26. 07/12/23 Menginstall SSH.
+27. 07/12/23 Menginstall Apache2
