@@ -4,10 +4,7 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 1. Ubuntu Server 20.04.4 LTS
 2. SSH
 3. Apache2
-4. PHP 7.4.3-4ubuntu2.19
-5. MariaDB 10.3.38
-6. MySQL
-7. WordPress 6.3.2
+4. Webmin
 # Progress & Update
 1. 17/10/23 Install Ubuntu Server di Hardisk Eksternal.
 2. 17/10/23 Install SSH dan melakukan tahap Instalasi melalui Terminal.
@@ -33,6 +30,7 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 22. 19/10/23 Restart Apache2.
 23. 19/10/23 Relog domain (192.168.56.106) dan tampilan domain menjadi Wordpress.
 24. 07/12/23 Membuat baru web server.
-25. 07/12/23 Menginstall ulang Ubuntu Server.
+25. 07/12/23 Menginstall ulang Ubuntu Server dengan domain (192.168.56.108).
 26. 07/12/23 Menginstall SSH.
 27. 07/12/23 Menginstall Apache2.
+28. 10/12/23 Menginstall Webmin.
